@@ -2,7 +2,7 @@
   <div class="profile">
     <el-row>
      <el-col :span="24">
-      <h1>View users</h1>    
+      <h1>View contacts</h1>    
      </el-col>
     </el-row>
  <el-row>

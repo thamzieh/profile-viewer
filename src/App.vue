@@ -3,7 +3,8 @@
 <div class="line"></div>
 <el-menu theme="dark" default-active="1" class="el-menu-demo" mode="horizontal">
   <router-link to="/home"><el-menu-item index="1">Home</el-menu-item></router-link>
-  <router-link to="/profile"><el-menu-item index="2">Profiles</el-menu-item></router-link>
+  <router-link to="/profile"><el-menu-item index="2">Users</el-menu-item></router-link>
+  <router-link to="/contact"><el-menu-item index="3">Contacts</el-menu-item></router-link>
 </el-menu>
 <router-view></router-view>
   </div>

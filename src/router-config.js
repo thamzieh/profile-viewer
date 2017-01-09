@@ -1,5 +1,6 @@
 import Home from './components/Home'
 import Profile from './components/Profile'
+import Contact from './components/Contact'
 
 export const routes = [
   {
@@ -9,5 +10,9 @@ export const routes = [
   {
     path: '/Profile',
     component: Profile
+  },
+  {
+    path: '/Contact',
+    component: Contact
   }
 ]
